@@ -1,10 +1,10 @@
 
 # Considerations
 
-Eu confesso que tive dificuldade com a logica inicialmente e com inspirações para a Timeline! Gastei um tempo procurando inspirações no Dribble e no v0. Com o tempo curto, eu usei o Copilot para me ajudar com a logica de agrupamento e foquei mais nas funcionalidades do usuário. 
-Com mais tempo eu mudaria um pouco do estilo, principalmente da Lane e da timeline. Melhoraria a visualização dos items no Mensal. 
-Se tivesse mais tempo eu testaria com Jest e Cypress as funcionalidades de editar e zoom. 
+I confess that I had difficulty with the logic initially and with inspirations for the Timeline! I spent time looking for inspirations on Dribbble and v0. With the short time available, I used Copilot to help me with the grouping logic and focused more on user functionalities.
+With more time I would change a bit of the style, especially the Lane and timeline. I would improve the visualization of items in Monthly view.
+If I had more time I would test with Jest and Cypress the editing and zoom functionalities.
 
-Fiquei feliz com o resultado!
+I'm happy with the result!
 
 Octacilio Serafim
